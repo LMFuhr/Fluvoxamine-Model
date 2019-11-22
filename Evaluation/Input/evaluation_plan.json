@@ -2,8 +2,8 @@
     "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.0/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
-            "Id": "Clarithromycin-Model",
-            "Path": "C:/Users/Laura Fuhr/Documents/Clarithromycin-Model/Clarithromycin-Model/Clarithromycin-Model.json",
+            "Id": "Fluvoxamine-Model",
+            "Path": "C:/Users/Laura Fuhr/Documents/Fluvoxamine-Model/Fluvoxamine-Model/Fluvoxamine-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
@@ -121,95 +121,135 @@
         },
         "AllPlots": [
             {
-                "Project": "Clarithromycin-Model",
-                "Simulation": "Clarithromycin iv, Chu 1992, 250 mg, 0.75 h",
-                "SectionId": 331
-            },
-            {
-                "Project": "Clarithromycin-Model",
-                "Simulation": "Clarithromycin po, Abduljalil 2009, 500 mg, MD, 3.5 d",
+                "Project": "Fluvoxamine-Model",
+                "Simulation": "Christensen 2002, 10 mg bid EM",
                 "SectionId": 332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 100 mg",
+                "Project": "Fluvoxamine-Model",
+                "Simulation": "Christensen 2002, 10 mg QD PM",
+                "SectionId": 332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Christensen 2002, 25 mg bid EM",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 100 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Christensen 2002, 25 mg QD PM",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 1200 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Spigset 1997, 50 mg SD EM",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 200 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Spigset 1997, 50 mg SD PM",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 400 mg",
-                "SectionId":  332
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Japanese Society of Hospital Pharmacists 2015, 30 mg iv",
+                "SectionId":  331
             },           
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 600 mg",
-                "SectionId":  332
-            },
-            {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1992, 800 mg",
-                "SectionId":  332
-            },
-            {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1993, 250 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "de Vries 1992, 50 mg bid",
                 "SectionId":  331
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1993, 250 mg, MD, 3.5 d",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Fleishaker 1994, 50/100 mg QD",
                 "SectionId":  331
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1993, 500 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Labellarte 2004, 150 mg bid",
                 "SectionId":  331
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Chu 1993, 500 mg, MD, 3.5 d",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Spigset 1008, 12.5/25/50/100 mg bid",
                 "SectionId":  331
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Kees 1995, 250 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Bahrami 2007, 100 mg SD",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Kees 1995, 250 mg, MD, 5 d",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "de Bree 1983, 100 mg SD",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Kees 1995, 500 mg",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "de Vries 1993, 100 mg SD",
+                "SectionId":  331
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "de Vries 1993, 25 mg SD",
+                "SectionId":  331
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "de Vries 1993, 50 mg SD",
+                "SectionId":  331
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Fukasawa 2006, 50 mg SD EM",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Kees 1995, 500 mg, MD, 5 d",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Japanese Society of Hospital Pharmacists 2015, 100 mg SD",
                 "SectionId":  332
             },
             {
-                "Project":  "Clarithromycin-Model",
-                "Simulation":  "Clarithromycin po, Rengels 2003, 250 mg, MD, 1.5 d",
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Japanese Society of Hospital Pharmacists 2015, 200 mg SD",
                 "SectionId":  332
-            }                                                                                                                                                                           
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Japanese Society of Hospital Pharmacists 2015, 25 mg SD",
+                "SectionId":  332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Japanese Society of Hospital Pharmacists 2015, 50 mg SD",
+                "SectionId":  332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Kunii 2005, 50 mg SD EM",
+                "SectionId":  332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Orlando 2010, 50 mg SD",
+                "SectionId":  331
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "van Harten 1991, 50 mg SD",
+                "SectionId":  332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Spigset 1995, 50 mg SD EM non-smoker",
+                "SectionId":  332
+            },
+            {
+                "Project":  "Fluvoxamine-Model",
+                "Simulation":  "Spigset 1995, 50 mg SD EM smoker",
+                "SectionId":  332
+            }                                                                                                                                                                                                                                                                                                
         ],
         "GOFMergedPlots": [
             {
@@ -223,134 +263,218 @@
                 "PlotType": "predictedVsObserved|residualsOverTime",
                 "Groups": [
                     {
-                        "Caption": "internal data",
+                        "Caption": "training dataset",
                         "Symbol": "Circle",
                         "OutputMappings": [
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin iv, Chu 1992, 250 mg, 0.75 h",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Japanese Society of Hospital Pharmacists 2015, 30 mg iv",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1991, 250 mg iv",
-                                "Color": "#FF0000"
+                                "ObservedData": "Japanese Society 2015.30 mg iv",
+                                "Color": "#0000FF"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1993, 250 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "de Vries 1993, 25 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1993, 250 mg po",
-                                "Color": "#FF0000"
+                                "ObservedData": "de Vries 1993.25 mg SD",
+                                "Color": "#0000FF"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1993, 250 mg, MD, 3.5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "de Vries 1993, 50 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1993, 250 mg po MD",
-                                "Color": "#FF0000"
+                                "ObservedData": "de Vries 1993.50 mg SD",
+                                "Color": "#0000FF"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1993, 500 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Orlando 2010, 50 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1993, 500 mg po",
-                                "Color": "#FF0000"
+                                "ObservedData": "Orlando 2010.50 mg SD",
+                                "Color": "#0000FF"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1993, 500 mg, MD, 3.5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "de Vries 1993, 100 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1993, 500 mg po MD",
-                                "Color": "#FF0000"
-                            }
+                                "ObservedData": "de Vries 1993.100 mg SD",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Labellarte 2004, 150 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Labellarte 2004.150 mg BID.EM",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Japanese Society of Hospital Pharmacists 2015, 200 mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Japanese Society 2015.200 mg SD",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Spigset 1998.100 mg BID.EM/PM.non-smoker", 
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Spigset 1998.12.5 mg BID.EM/PM.non-smoker", 
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Spigset 1998.25 mg BID.EM/PM.non-smoker", 
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Spigset 1998.50 mg BID.EM/PM.non-smoker", 
+                                "Color": "#0000FF"
+                            },                                                                                    
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Fleishaker 1994, 50/100 mg QD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Fleishaker 1994.100 mg QD.smoker/non-smoker",
+                                "Color": "#0000FF"
+                            }                                                                                                                
                         ]
                     },
                     {
-                        "Caption": "external data",
+                        "Caption": "test dataset",
                         "Symbol": "Square",
                         "OutputMappings": [
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Abduljalil 2009, 500 mg, MD, 3.5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Christensen 2002, 10 mg bid EM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Abduljalil 2009, 500 mg po MD",
+                                "ObservedData": "Christensen 2002.10 mg BID.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 100 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Christensen 2002, 10 mg QD PM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 100 mg po",
+                                "ObservedData": "Christensen 2002.10 mg QD.PM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 1200 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Christensen 2002, 25 mg bid EM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 1200 mg po",
+                                "ObservedData": "Christensen 2002.25 mg BID.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 200 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Christensen 2002, 25 mg QD PM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 200 mg po",
+                                "ObservedData": "Christensen 2002.25 mg QD.PM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 400 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Japanese Society of Hospital Pharmacists 2015, 25 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 400 mg po",
+                                "ObservedData": "Japanese Society 2015.25 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 600 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Fukasawa 2006, 50 mg SD EM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 600 mg po",
+                                "ObservedData": "Fukasawa 2006.50 mg SD.EM/PM.smoker/non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Chu 1992, 800 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Japanese Society of Hospital Pharmacists 2015, 50 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Chu 1992, 800 mg po",
+                                "ObservedData": "Japanese Society 2015.50 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Kees 1995, 250 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Kunii 2005, 50 mg SD EM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kees 1995, 250 mg po",
+                                "ObservedData": "Kunii 2005.50 mg SD.EM/PM.smoker/non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Kees 1995, 250 mg, MD, 5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1995, 50 mg SD EM non-smoker",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kees 1995, 250 mg po MD",
+                                "ObservedData": "Spigset 1995.50 mg SD.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Kees 1995, 500 mg",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1995, 50 mg SD EM smoker",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kees 1995, 500 mg po",
+                                "ObservedData": "Spigset 1995.50 mg SD.EM.smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Kees 1995, 500 mg, MD, 5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1997, 50 mg SD EM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kees 1995, 500 mg po MD",
+                                "ObservedData": "Spigset 1997.50 mg SD.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
-                                "Project": "Clarithromycin-Model",
-                                "Simulation": "Clarithromycin po, Rengels 2003, 250 mg, MD, 1.5 d",
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Spigset 1997, 50 mg SD PM",
                                 "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Rengelsh. 2003, 250 mg po MD",
+                                "ObservedData": "Spigset 1997.50 mg SD.PM.non-smoker",
                                 "Color": "#FF0000"
-                            }                                                                                                                                                                                                                                                
+                            },                            
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "van Harten 1991, 50 mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "van Harten 1991.50 mg SD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "de Vries 1992, 50 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "de Vries 1992.50 mg BID",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Bahrami 2007, 100 mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bahrami 2007.100 mg SD.non-smoker",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "de Bree 1983, 100 mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "de Bree 1983.100 mg SD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
+                                "Simulation": "Japanese Society of Hospital Pharmacists 2015, 100 mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Japanese Society 2015.100 mg SD",
+                                "Color": "#FF0000"
+                            }                                                                                                                                                                                                                                                                                                                                                                                           
                         ]
                     }
                 ]
@@ -362,14 +486,14 @@
     },
     "Inputs": [
         {
-            "Project": "Clarithromycin-Model",
-            "Name": "Clarithromycin",
+            "Project": "Fluvoxamine-Model",
+            "Name": "Fluvoxamine",
             "Type": "Compound",
             "SectionId": 31
         },
         {
-            "Project": "Clarithromycin-Model",
-            "Name": "Tablet Clarithromycin",
+            "Project": "Fluvoxamine-Model",
+            "Name": "Solution",
             "Type": "Formulation",
             "SectionId": 31
         }
