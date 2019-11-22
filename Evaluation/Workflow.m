@@ -22,7 +22,7 @@ markdownJoinerFolder = 'C:\Users\Laura Fuhr\Documents\Matlab\markdown-joiner';
 %   - report
 %
 
-basisDir = 'C:\Users\Laura Fuhr\Documents\Clarithromycin-Model\Clarithromycin-Model\Evaluation';
+basisDir = 'C:\Users\Laura Fuhr\Documents\Clarithromycin-Model\Fluvoxamine-Model\Evaluation';
 qualificationPlanName = 'evaluation_plan.json';
 
 % In case your folder structure is different from assumed above, 
