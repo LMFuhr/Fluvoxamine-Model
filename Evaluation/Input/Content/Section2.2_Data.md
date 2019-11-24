@@ -1,41 +1,53 @@
 ### 2.2.1	In vitro / physico-chemical Data
 
-A literature search was performed to collect available information on physiochemical properties of dapagliflozin. The obtained information from literature is summarized in the table below. 
+A literature search was performed to collect available information on physiochemical properties of fluvoxamine. The obtained information from literature is summarized in the table below. 
 
-| **Parameter**   | **Unit** | **Value**                    | Source                                                       | **Description**                                 |
-| :-------------- | -------- | ---------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
-| MW              | g/mol    | 747.95                       |                                                              | Molecular weight                                |
-| pK<sub>a</sub>  |          | 8.99 (base)                  | [McFarland 1997](# 5 References)                             | Acid dissociation constant                      |
-| Solubility (pH) | mg/L     | 12170 (2.4)                  | [Salem 2003](# 5 References)                                 | Solubility                                      |
-| logP            |          | 2.3                          | [Lappin 2011](#5 References)                                 | Partition coefficient between octanol and water |
-| fu              | %        | 28.0, 30.0,  40.0            | [Davey 1991](#5 References) , [Chu 1993a](#5 References), [Noreddin 2002](#5 References) | Fraction unbound in plasma                      |
-| CYP3A4 Km       | µmol/L   | 48.7                         | [Rodrigues 1997](#5 References)                              | Michaelis-Menten constant                       |
-| CLren           | mL/min   | 110-213                      | [Rodvold 1999](#5 References)                                | Renal plasma clearance                          |
-| CYP3A4 Ki       | µmol/L   | 2.25, 4.12, 5.49, 29.5, 39.2 | [Polasek 2006](#5 References), [Jones 2007](#5 References), [Mayhew 2000](#5 References), [Ito 2003](#5 References) | Conc. for half-maximal inactivation             |
-| CYP3A4 kinact   | 1/min    | 0.04, 0.05, 0.07, 0.23       | [Polasek 2006](#5 References), [Jones 2007](#5 References), [Mayhew 2000](#5 References), [Ito 2003](#5 References) | Maximum inactivation rate                       |
-| P-gp Ki         | µmol/L   | 4.1                          | [Eberl 2007](#5 References)                                  | Conc. for half-maximal inhibition               |
+| **Parameter**                         | **Unit** | **Value**        | Source                                                       | **Description**                                 |
+| :------------------------------------ | -------- | ---------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| MW                                    | g/mol    | 318.34           | [Drugbank](#5 References)                                    | Molecular weight                                |
+| pK<sub>a</sub>                        |          | 9.40 (base)      | [Hallifax 2007](# 5 References)                              | Acid dissociation constant                      |
+| Solubility (pH)                       | mg/mL    | 14.66 (7.0)      | [MSDS](# 5 References)                                       | Solubility                                      |
+| logP                                  |          | 2.80, 2.89, 3.20 | [Drugbank](#5 References)                                    | Partition coefficient between octanol and water |
+| fu                                    | %        | 23.00            | [Claassen 1983](#5 References)                               | Fraction unbound in plasma                      |
+| CYP2D6 Km                             | µmol/L   | 76.30            | [Miura 2007](#5 References)                                  | Michaelis-Menten constant                       |
+| CYP2D6 kcat                           | 1/min    | 0                | [Crews 2014](#5 References)                                  | Renal plasma clearance                          |
+| CYP1A2 Kic (competitive inhibition)   | nmol/L   | 10.00            | [Karjalainen 2008](#5 References), [Yao 2001](#5 References) | Conc. for half-maximal inactivation             |
+| CYP1A2 Kiu (uncompetitive inhibition) | nmol/L   | 10.00            | [Karjalainen 2008](#5 References), [Yao 2001](#5 References) | Maximum inactivation rate                       |
+| CYP3A4 Ki                             | µmol/L   | 1.60             | [Yao 2001](#5 References), [Olesen 2000](#5 References)      | Conc. for half-maximal inhibition               |
 
 ### 2.2.2	Clinical Data
 
-A literature search was performed to collect available clinical data on clarithromycin in healthy adults.
+A literature search was performed to collect available clinical data on fluvoxamine in healthy adults.
+
+The fluvoxamine PBPK model was developed using 26 different clinical studies with pharmacokinetic (PK) blood sampling. These studies include 1 study of 30 mg fluvoxamine administered intravenously (iv) as a single-dose, and 25 studies of fluvoxamine administered orally (po) in single- or multiple-doses. In the single-dose (s.d.) po studies fluvoxamine was administered in doses of 25 - 200 mg. In the multiple-dose po studies fluvoxamine was administered once (q.d.) or twice daily (b.i.d.), in doses of 10 - 150 mg per administration.
 
 #### 2.2.2.1	Model Building
 
 The following studies were used for model building (training data):
 
-| Publication                | Arm / Treatment / Information used for model building        |
-| :------------------------- | :----------------------------------------------------------- |
-| [Chu 1992a](#5 References) | Healthy subjects with intravenous administration (0.75 h) of 250 mg |
-| [Chu 1993](#5 References)  | Healthy subjects with oral administration of 250 or 500 mg as single or twice daily for 5 days |
+| Publication                            | Arm / Treatment / Information used for model building        |
+| :------------------------------------- | :----------------------------------------------------------- |
+| [Japanese Society 2015](#5 References) | Healthy Japanese adults with 30 mg as 60 min infusion or oral administration of 200 mg |
+| [de Vries 1993](#5 References)         | Healthy adults with oral administration of 25-100 mg         |
+| [Orlando 2010](#5 References)          | Healthy adults with oral administration of 50 mg             |
+| [Labellarte 2004](#5 References)       | Healthy CYP2D6 EM with oral administration of 50 mg twice a day |
+| [Spigset 1998](#5 References)          | Healthy CYP2D6 EM (80%) and PM (20%) with oral administration of doses between 12.5-100 mg twice a day |
+| [Fleishaker 1994](#5 References)       | Healthy adults with oral administration of 50 mg or 100 mg once daily |
 
 #### 2.2.2.2	Model Verification
 
 The following studies were used for model verification:
 
-| Publication                         | Arm / Treatment / Information used for model building        |
-| :---------------------------------- | :----------------------------------------------------------- |
-| [Chu 1992](#5 References)           | Healthy Subjects with single doses between 100-1200 mg       |
-| [Kees 1995](#5 References)          | Healthy subjects with oral administration of 250 or 500 mg as single or multiple dose |
-| [Rengelshausen 2003](#5 References) | Oral administration of 250 mg twice a day for 1.5 days       |
-| [Abduljialil 2009](#5 References)   | Oral administration of 500 mg twice a day for 3.5 days       |
+| Publication                            | Arm / Treatment / Information used for model building        |
+| :------------------------------------- | :----------------------------------------------------------- |
+| [Christensen 2002](#5 References)      | Healthy CYP2D6 EM with oral administration of 10 mg or 25 mg twice a day and healthy CYP2D6 PM with oral administration of 10 mg or 25 mg once daily |
+| [Fukasawa 2006](#5 References)         | Healthy Japanese adults with single oral doses of 50 mg      |
+| [Japanese Society 2015](#5 References) | Healthy Japanese adults with single oral doses of 25-100 mg  |
+| [Kunii 2005](#5 References)            | Healthy CYP2D6 EM with single oral doses of 50 mg            |
+| [Spigset 1995](#5 References)          | Healthy smokers or non-smokers with oral administration of 50 mg as single dose |
+| [Spigset 1997](#5 References)          | Healthy CYP2D6 EM or PM with oral administration of 50 mg as single dose |
+| [van Harten 1991](#5 References)       | Healthy adults  with oral administration of 50 mg as single dose |
+| [de Vries 1992](#5References)          | Healthy adults with oral administration of 50 mg twice a day |
+| [Bahrami 2007](#5 References)          | Healthy adults with oral administration of 100 mg as single dose |
+| [de Bree 1983](#5 References)          | Healthy adults with oral administration of 100 mg as single dose |
 

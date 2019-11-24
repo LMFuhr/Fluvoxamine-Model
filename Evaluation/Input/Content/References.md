@@ -1,50 +1,64 @@
-**Abduljalil 2009** Abduljalil, K. et al. Modeling the autoinhibition of clarithromycin metabolism during repeated oral administration. Antimicrob. Agents Chemother. 53, 2892–901 (2009).
+**ANI Pharmaceuticals Inc. 2008** ANI Pharmaceuticals Inc. Fluvoxamine maleate - prescribing information. (2008).
 
-**Chu 1992** Chu, S.Y. et al. Pharmacokinetics of clarithromycin, a new macrolide, after single ascending oral doses. Antimicrob. Agents Chemother. 36, 2447–53 (1992).
+**Bahrami 2007** Bahrami, G. & Mohammadi, B. Rapid and sensitive bioanalytical method for measurement of fluvoxamine in human serum using 4-chloro-7-nitrobenzofurazan as pre-column derivatization agent: application to a human pharmacokinetic study. J. Chromatogr. B. Analyt. Technol. Biomed. Life Sci. 857, 322–6 (2007).
 
-**Chu 1992a** Chu, S.Y., Deaton, R. & Cavanaugh, J. Absolute bioavailability of clarithromycin after oral administration in humans. Antimicrob. Agents Chemother. 36, 1147–50 (1992).
+**Christensen 2002** Christensen, M. et al. Low daily 10-mg and 20-mg doses of fluvoxamine inhibit the metabolism of both caffeine (cytochrome P4501A2) and omeprazole (cytochrome P4502C19). Clin. Pharmacol. Ther. 71, 141–52 (2002).
 
-**Chu 1993** Chu, S. et al. Single- and multiple-dose pharmacokinetics of clarithromycin, a new macrolide antimicrobial. J. Clin. Pharmacol. 33, 719–26 (1993).
+**Claassen 1983** Claassen, V. Review of the animal pharmacology and pharmacokinetics of fluvoxamine. Br. J. Clin. Pharmacol. 15, 349S–355S (1983).
 
-**Chu 1993a** Chu, S.Y. et al. Effect of moderate or severe hepatic impairment on clarithromycin pharmacokinetics. J. Clin. Pharmacol. 33, 480–5 (1993).
+**Crews 2014** Crews, K.R. et al. Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450 2D6 genotype and codeine therapy: 2014 update. Clin. Pharmacol. Ther. 95, 376–82 (2014).
 
-**Davey 1991** Davey, P.G. The pharmacokinetics of clarithromycin and its 14-OH metabolite. J. Hosp. Infect. 19 Suppl A, 29–37 (1991).
+**DeBree 1983** DeBree, H., VanderSchoot, J. & Post, L. Fluvoxamine maleate; Disposition in man. Eur. J. Drug Metab. Pharmacokinet. 8, 175–79 (1983).
 
-**Eberl 2007** Eberl, S. et al. Role of p-glycoprotein inhibition for drug interactions: evidence from in vitro and pharmacoepidemiological studies. Clin. Pharmacokinet. 46, 1039–49 (2007).
+**DeVries 1992** DeVries, M., VanHarten, J., VanBemmel, P. & Raghoebar, M. Single and multiple oral dose fluvoxamine kinetics in young and elderly subjects. Ther. Drug Monit. 14, 493–98 (1992).
 
-**Hanke 2018** Hanke, N. et al. PBPK Models for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin,Midazolam, Alfentanil, and Digoxin. CPT Pharmacometrics Syst. Pharmacol. 7, 647-659 (2018)
+**Drugbank** (https://www.drugbank.ca/drugs/DB00176), last view: 22 October 2018;
 
-**Ito 2003** Ito, K., Ogihara, K., Kanamitsu, S.-I. & Itoh, T. Prediction of the in vivo interaction between midazolam and macrolides based on in vitro studies using human liver microsomes. Drug Metab. Dispos. 31, 945–54 (2003).
+**Fleishaker 1994** Fleishaker, J. & Hulst, L. A pharmacokinetic and pharmacodynamic evaluation of the combined administration of alprazolam and fluvoxamine. Eur. J. Clin. Pharmacol. 46, 35–9 (1994).
 
-**Jones 2007** Jones, D.R., Ekins, S., Li, L. & Hall, S.D. Computational approaches that predict metabolic intermediate complex formation with CYP3A4 (+b5). Drug Metab. Dispos. 35, 1466–75 (2007).
+**Fukasawa 2006** Fukasawa, T. et al. Effects of caffeine on the kinetics of fluvoxamine and its major metabolite in plasma after a single oral dose of the drug. Ther. Drug Monit. 28, 308–11 (2006).
 
-**Kees 1995** Kees, F., Wellenhofer, M. & Grobecker, H. Serum and cellular pharmacokinetics of clarithromycin 500 mg q.d. and 250 mg b.i.d. in volunteers. Infection 23, 168–72 (1995).
+**Hallifax 2007** Hallifax, D. & Houston, J.B. Saturable uptake of lipophilic amine drugs into isolated hepatocytes: mechanisms and consequences for quantitative clearance prediction. Drug Metab. Dispos. 35, 1325–32 (2007).
+
+**Japanese Society 2015** Japanese Society of Hospital Pharmacists. 医薬品インタビューフォーム. (2015).
+
+**Karjalainen 2008** Karjalainen, M.J., Neuvonen, P.J. & Backman, J.T. In vitro inhibition of CYP1A2 by model inhibitors, anti-inflammatory analgesics and female sex steroids: predictability of in vivo interactions. Basic Clin. Pharmacol. Toxicol. 103, 157–65 (2008).
 
 **Kuepfer 2016** Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model.CPT Pharmacometrics Syst Pharmacol. 2016 Oct;5(10):516-531. doi: 10.1002/psp4.12134. Epub 2016 Oct 19. 
 
-**Lappin 2011** Lappin, G. et al. Comparative pharmacokinetics between a microdose and therapeutic dose for clarithromycin, sumatriptan, propafenone, paracetamol (acetaminophen), and phenobarbital in human volunteers. Eur. J. Pharm. Sci. 43, 141–50 (2011).
+**Kunii 2005** Kunii, T. et al. Interaction study between enoxacin and fluvoxamine. Ther. Drug Monit. 27, 349–53 (2005).
 
-**Mayhew 2000** Mayhew, B.S., Jones, D.R. & Hall, S.D. An in vitro model for predicting in vivo inhibition of cytochrome P450 3A4 by metabolic intermediate complex formation. Drug Metab. Dispos. 28, 1031–7 (2000).
+**Labellarte 2004** Labellarte, M. et al. Multiple-dose pharmacokinetics of fluvoxamine in children and adolescents. J. Am. Acad. Child Adolesc. Psychiatry 43, 1497–505 (2004).
 
-**McFarland 1997** McFarland, J.W. et al. Quantitative structure-activity relationships among macrolide antibacterial agents: in vitro and in vivo potency against Pasteurella multocida. J. Med. Chem. 40, 1340–6 (1997).
+**Meyer 2012** Meyer, M., Schneckener, S., Ludewig, B., Kuepfer, L. & Lippert, J. Using expression data for quantification of active processes in physiologically-based pharmacokinetic modeling. Drug Metab. Dispos. 40, 892–901 (2012).
 
-**Moj 2017** Moj, D. et al. Clarithromycin, midazolam, and digoxin: application of PBPK modeling to gain new insights into drug-drug interactions and co-medication regimens. AAPS J. 19, 298–312 (2017).
+**Miura 2007** Miura, M. & Ohkubo, T. Identification of human cytochrome P450 enzymes involved in the major metabolic pathway of fluvoxamine. Xenobiotica. 37, 169–79 (2007).
 
-**Noreddin 2002** Noreddin, A.M. et al. Pharmacodynamic modeling of clarithromycin against macrolide-resistant [PCR-positive mef(A) or erm(B)] Streptococcus pneumoniae simulating clinically achievable serum and epithelial lining fluid free-drug concentrations. Antimicrob. Agents Chemother. 46, 4029–34 (2002).
+**MSDS** material safety data sheet of fluvoxamine
 
-**PK-Sim Ontogeny Database Version 7.3** (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)	
+**Olesen 2000** Olesen, O.V. & Linnet, K. Fluvoxamine-Clozapine drug interaction: inhibition in vitro of five cytochrome P450 isoforms involved in clozapine metabolism. J. Clin. Psychopharmacol. 20, 35–42 (2000).
 
-**Polasek 2006** Polasek, T.M. & Miners, J.O. Quantitative prediction of macrolide drug-drug interaction potential from in vitro studies using testosterone as the human cytochrome P4503A substrate. Eur. J. Clin. Pharmacol. 62, 203–8 (2006).
+**Orlando 2010** Orlando, R., DeMartin, S., Andrighetto, L., Floreani, M. & Palatini, P. Fluvoxamine pharmacokinetics in healthy elderly subjects and elderly patients with chronic heart failure. Br. J. Clin. Pharmacol. 69, 279–86 (2010).
 
-**Rengelshausen 2003** Rengelshausen, J. et al. Contribution of increased oral bioavailability and reduced nonglomerular renal clearance of digoxin to the digoxin-clarithromycin interaction. Br. J. Clin. Pharmacol. 56, 32–8 (2003).
+**Perucca 1994** Perucca, E., Gatti, G. & Spina, E. Clinical pharmacokinetics of fluvoxamine. Clin. Pharmacokinet. 27, 175–90 (1994).
 
-**Rodrigues 1997** Rodrigues, A.D., Roberts, E.M., Mulford, D.J., Yao, Y. & Ouellet, D. Oxidative metabolism of clarithromycin in the presence of human liver microsomes. Major role for the cytochrome P4503A (CYP3A) subfamily. Drug Metab. Dispos. 25, 623–30 (1997).
+**PK-Sim Ontogeny Database Version 7.3** (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
 
-**Rodvold 1999** Rodvold, K.A. Clinical pharmacokinetics of clarithromycin. Clin. Pharmacokinet. 37, 385–98 (1999).
+**Schlender 2016** Schlender JF, Meyer M, Thelen K, Krauss M, Willmann S, Eissing T, Jaehde U. Development of a Whole-Body Physiologically Based Pharmacokinetic Approach to Assess the Pharmacokinetics of Drugs in Elderly Individuals. Clin Pharmacokinet. 2016 Dec;55(12):1573-1589. 
 
-**Salem 2003** Salem, I.I. & Düzgünes, N. Efficacies of cyclodextrin-complexed and liposome-encapsulated clarithromycin against Mycobacterium avium complex infection in human macrophages. Int. J. Pharm. 250, 403–14 (2003).
+**Spigset 1995** Spigset, O., Carleborg, L., Hedenmalm, K. & Dahlqvist, R. Effect of cigarette smoking on fluvoxamine pharmacokinetics in humans. Clin. Pharmacol. Ther. 58, 399–403 (1995).
 
-**Schlender 2016** Schlender JF, Meyer M, Thelen K, Krauss M, Willmann S, Eissing T, Jaehde U. Development of a Whole-Body Physiologically Based Pharmacokinetic Approach to Assess the Pharmacokinetics of Drugs in Elderly Individuals. Clin Pharmacokinet. 2016 Dec;55(12):1573-1589. 	
+**Spigset 1997** Spigset, O., Granberg, K., Hägg, S., Norström, A. & Dahlqvist, R. Relationship between fluvoxamine pharmacokinetics and CYP2D6/CYP2C19 phenotype polymorphisms. Eur. J. Clin. Pharmacol. 52, 129–33 (1997).
 
-**Seithel 2007** Seithel, A. et al. The influence of macrolide antibiotics on the uptake of organic anions and drugs mediated by OATP1B1 and OATP1B3. Drug Metab. Dispos. 35, 779–86 (2007).
+**Spigset 1998** Spigset, O., Granberg, K., Hägg, S., Söderström, E. & Dahlqvist, R. Non-linear fluvoxamine disposition. Br. J. Clin. Pharmacol. 45, 257–63 (1998).	
+
+**Spigset 2001** Spigset, O., Axelsson, S., Norström, A., Hägg, S. & Dahlqvist, R. The major fluvoxamine metabolite in urine is formed by CYP2D6. Eur. J. Clin. Pharmacol. 57, 653–8 (2001).
+
+**FDA 2017** U.S. Food and Drug Administration. Clinical Drug Interaction Studies - Study Design, Data Analysis, Implications for Dosing, and Labeling Recommendations. Draft Guidance for Industry. (2017).
+
+**VanHarten 1991** VanHarten, J., VanBemmel, P., Dobrinska, M.R., Ferguson, R.K. & Raghoebar, M. Bioavailability of fluvoxamine given with and without food. Biopharm. Drug Dispos. 12, 571–6 (1991).
+
+**Yao 2001** Yao, C. et al. Fluvoxamine-theophylline interaction: gap between in vitro and in vivo inhibition constants toward cytochrome P4501A2. Clin. Pharmacol. Ther. 70, 415–24 (2001).
+
+**Zhou 2009** Zhou, S.F., Yang, L.P., Zhou, Z.W., Liu, Y.H. & Chan, E. Insights into the substrate specificity, inhibitors, regulation, and polymorphisms and the clinical impact of human cytochrome P450 1A2. AAPS J. 11, 481–494 (2009).
 
