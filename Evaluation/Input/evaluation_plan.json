@@ -269,84 +269,84 @@
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Japanese Society of Hospital Pharmacists 2015, 30 mg iv",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Japanese Society 2015.30 mg iv",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Vries 1993, 25 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1993.25 mg SD",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Vries 1993, 50 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1993.50 mg SD",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Orlando 2010, 50 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Orlando 2010.50 mg SD",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Vries 1993, 100 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1993.100 mg SD",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Labellarte 2004, 150 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Labellarte 2004.150 mg BID.EM",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Japanese Society of Hospital Pharmacists 2015, 200 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Japanese Society 2015.200 mg SD",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.100 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.12.5 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.25 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.50 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },                                                                                    
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Fleishaker 1994, 50/100 mg QD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Fleishaker 1994.100 mg QD.smoker/non-smoker",
                                 "Color": "#0000FF"
                             }                                                                                                                
@@ -359,119 +359,119 @@
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Christensen 2002, 10 mg bid EM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Christensen 2002.10 mg BID.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Christensen 2002, 10 mg QD PM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Christensen 2002.10 mg QD.PM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Christensen 2002, 25 mg bid EM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Christensen 2002.25 mg BID.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Christensen 2002, 25 mg QD PM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Christensen 2002.25 mg QD.PM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Japanese Society of Hospital Pharmacists 2015, 25 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Japanese Society 2015.25 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Fukasawa 2006, 50 mg SD EM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Fukasawa 2006.50 mg SD.EM/PM.smoker/non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Japanese Society of Hospital Pharmacists 2015, 50 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Japanese Society 2015.50 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Kunii 2005, 50 mg SD EM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Kunii 2005.50 mg SD.EM/PM.smoker/non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1995, 50 mg SD EM non-smoker",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1995.50 mg SD.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1995, 50 mg SD EM smoker",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1995.50 mg SD.EM.smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1997, 50 mg SD EM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1997.50 mg SD.EM.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Spigset 1997, 50 mg SD PM",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1997.50 mg SD.PM.non-smoker",
                                 "Color": "#FF0000"
                             },                            
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "van Harten 1991, 50 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "van Harten 1991.50 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Vries 1992, 50 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1992.50 mg BID",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Bahrami 2007, 100 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Bahrami 2007.100 mg SD.non-smoker",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Bree 1983, 100 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Bree 1983.100 mg SD",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
                                 "Simulation": "Japanese Society of Hospital Pharmacists 2015, 100 mg SD",
-                                "Output": "Organism|PeripheralVenousBlood|Clarithromycin|Plasma (Peripheral Venous Blood)",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Japanese Society 2015.100 mg SD",
                                 "Color": "#FF0000"
                             }                                                                                                                                                                                                                                                                                                                                                                                           

@@ -22,7 +22,7 @@ markdownJoinerFolder = 'C:\Users\Laura Fuhr\Documents\Matlab\markdown-joiner';
 %   - report
 %
 
-basisDir = 'C:\Users\Laura Fuhr\Documents\Clarithromycin-Model\Fluvoxamine-Model\Evaluation';
+basisDir = 'C:\Users\Laura Fuhr\Documents\Fluvoxamine-Model\Fluvoxamine-Model\Evaluation';
 qualificationPlanName = 'evaluation_plan.json';
 
 % In case your folder structure is different from assumed above, 
@@ -51,7 +51,7 @@ reportConfigurationPlan = 'report-configuration-plan.json';
 [WSettings, ConfigurationPlan, TaskList, ObservedDataSets] = initializeQualificationWorkflow(reportConfigurationPlan, REInput_path, REOutput_path);
 
 %OPTIONAL: set watermark. If set, it will appear in all generated plots
-%WSettings.Watermark = 'Preliminary';
+WSettings.Watermark = 'Preliminary';
 
 % run the Worklfow tasklist of ConfigurationPlan
 runQualificationWorkflow(WSettings, ConfigurationPlan, TaskList, ObservedDataSets);
