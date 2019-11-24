@@ -275,6 +275,13 @@
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
+                                "Simulation": "Labellarte 2004, 150 mg bid",
+                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Labellarte 2004.150 mg BID.EM",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Fluvoxamine-Model",
                                 "Simulation": "de Vries 1993, 25 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1993.25 mg SD",
@@ -299,13 +306,6 @@
                                 "Simulation": "de Vries 1993, 100 mg SD",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "de Vries 1993.100 mg SD",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Fluvoxamine-Model",
-                                "Simulation": "Labellarte 2004, 150 mg bid",
-                                "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Labellarte 2004.150 mg BID.EM",
                                 "Color": "#0000FF"
                             },
                             {

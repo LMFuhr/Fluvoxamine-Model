@@ -54,7 +54,7 @@ reportConfigurationPlan = 'report-configuration-plan.json';
 WSettings.Watermark = 'Preliminary';
 
 % run the Worklfow tasklist of ConfigurationPlan
-runQualificationWorkflow(WSettings, ConfigurationPlan, TaskList, ObservedDataSets);
+
 
 QualificationWorkflowTime = toc/60;
 fprintf('\n Qualification Workflow Duration: %0.1f minutes \n', QualificationWorkflowTime);
