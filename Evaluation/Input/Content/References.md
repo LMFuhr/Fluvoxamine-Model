@@ -2,6 +2,8 @@
 
 **Bahrami 2007** Bahrami, G. & Mohammadi, B. Rapid and sensitive bioanalytical method for measurement of fluvoxamine in human serum using 4-chloro-7-nitrobenzofurazan as pre-column derivatization agent: application to a human pharmacokinetic study. J. Chromatogr. B. Analyt. Technol. Biomed. Life Sci. 857, 322–6 (2007).
 
+**Britz 2019** Physiologically-based pharmacokinetic models for CYP1A2 drug–drug interaction prediction: a modeling network of fluvoxamine, theophylline, caffeine, rifampicin, and midazolam. CPT Pharmacometrics Syst. Pharmacol. 8, 296-307 (2019)
+
 **Christensen 2002** Christensen, M. et al. Low daily 10-mg and 20-mg doses of fluvoxamine inhibit the metabolism of both caffeine (cytochrome P4501A2) and omeprazole (cytochrome P4502C19). Clin. Pharmacol. Ther. 71, 141–52 (2002).
 
 **Claassen 1983** Claassen, V. Review of the animal pharmacology and pharmacokinetics of fluvoxamine. Br. J. Clin. Pharmacol. 15, 349S–355S (1983).
