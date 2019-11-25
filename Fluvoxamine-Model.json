@@ -7613,7 +7613,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -7806,7 +7806,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -7969,13 +7969,11 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 2.711579E-06,
-              "Max": 0.1,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -8237,7 +8235,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -8364,7 +8362,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -8768,14 +8766,14 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
+              "Scaling": "Linear",
               "NumberMode": "Normal"
             }
           ],
@@ -8959,16 +8957,14 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.08130609,
-              "Max": 0.3232704,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
+              "Scaling": "Linear",
               "NumberMode": "Normal"
             }
           ],
@@ -9437,7 +9433,7 @@
       ]
     },
     {
-      "Name": "Spigset 1008, 12.5/25/50/100 mg bid",
+      "Name": "Spigset 1998, 12.5/25/50/100 mg bid",
       "Model": "4Comp",
       "ObservedData": [
         "Spigset 1998.100 mg BID.EM/PM.non-smoker",
@@ -9755,7 +9751,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Spigset 1998, m, 29 y, 86 kg, 80EM/20PM, 100non-smoker",
+      "Individual": "Spigset 1998, male, 29 y, 86 kg",
       "Compounds": [
         {
           "Name": "Fluvoxamine",
@@ -9822,9 +9818,9 @@
           ],
           "Curves": [
             {
-              "Name": "Spigset 1008, 12.5/25/50/100 mg bid-Fluvoxamine-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Spigset 1998, 12.5/25/50/100 mg bid-Fluvoxamine-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Spigset 1008, 12.5/25/50/100 mg bid|Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
+              "Y": "Spigset 1998, 12.5/25/50/100 mg bid|Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
@@ -9981,7 +9977,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10114,7 +10110,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10247,7 +10243,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10380,7 +10376,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10513,7 +10509,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10646,7 +10642,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -10779,7 +10775,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -11045,7 +11041,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -11178,7 +11174,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -11305,6 +11301,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
+              "Min": 0.0,
+              "Max": 40.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -11438,6 +11436,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
+              "Min": 0.0,
+              "Max": 40.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -11710,7 +11710,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -11843,7 +11843,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -12094,22 +12094,22 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.006990596,
-            0.01159875,
-            0.01648903,
-            0.02721003,
-            0.03285266,
-            0.03510972,
-            0.03416928,
-            0.03595611,
-            0.03576802,
-            0.0269279,
-            0.02184953,
-            0.0138558,
-            0.008213166
+            6.99059629,
+            11.59875,
+            16.48903,
+            27.21003,
+            32.85266,
+            35.1097221,
+            34.1692772,
+            35.95611,
+            35.76802,
+            26.9279,
+            21.84953,
+            13.8558,
+            8.213166
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12338,10 +12338,10 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00159165007
+            1.59165
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12448,10 +12448,10 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.01177821
+            11.7782106
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12558,10 +12558,10 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00827658
+            8.27658
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12675,17 +12675,17 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00609000027,
-            0.0298399981,
-            0.03141,
-            0.04556,
-            0.04473,
-            0.0381400026,
-            0.0356699973,
-            0.01918
+            6.09,
+            29.8399982,
+            31.41,
+            45.56,
+            44.73,
+            38.1400032,
+            35.67,
+            19.18
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12808,19 +12808,19 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.08993,
-            0.07987,
-            0.1,
-            0.0949699953,
-            0.09409,
-            0.073300004,
-            0.0663,
-            0.0523,
-            0.020130001,
-            0.01028
+            89.93,
+            79.8699951,
+            100.0,
+            94.97,
+            94.09,
+            73.3,
+            66.2999954,
+            52.3,
+            20.1300011,
+            10.28
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -12937,11 +12937,11 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.073,
-            0.073
+            73.0,
+            73.0
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -13061,22 +13061,22 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.007346939,
-            0.0214285683,
-            0.0305102,
-            0.03316327,
-            0.03438776,
-            0.02933673,
-            0.02642857,
-            0.0236734711,
-            0.02112245,
-            0.01418367,
-            0.00984694,
-            0.00540816272,
-            0.00224489812
+            7.346939,
+            21.42857,
+            30.5102,
+            33.1632729,
+            34.38776,
+            29.336731,
+            26.42857,
+            23.67347,
+            21.12245,
+            14.18367,
+            9.846939,
+            5.40816259,
+            2.244898
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -13204,19 +13204,19 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.003877551,
-            0.005612245,
-            0.007091837,
-            0.006887755,
-            0.00627551,
-            0.005612245,
-            0.005,
-            0.00413265266,
-            0.003214286,
-            0.001989796
+            3.877551,
+            5.612245,
+            7.091837,
+            6.887755,
+            6.27551,
+            5.612245,
+            5.0,
+            4.13265276,
+            3.21428585,
+            1.98979616
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -13343,21 +13343,21 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.003418367,
-            0.00989795849,
-            0.01173469,
-            0.0154591808,
-            0.01586735,
-            0.01418367,
-            0.0122449,
-            0.00984694,
-            0.00877551,
-            0.005816327,
-            0.004795918,
-            0.002704082
+            3.418367,
+            9.897959,
+            11.73469,
+            15.4591808,
+            15.86735,
+            14.18367,
+            12.2449,
+            9.846939,
+            8.77551,
+            5.816327,
+            4.795918,
+            2.704082
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -14471,45 +14471,45 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.002179837,
-            0.008228883,
-            0.01771117,
-            0.02032697,
-            0.01934605,
-            0.01591281,
-            0.01346049,
-            0.01084469,
-            0.009373297,
-            0.01411444,
-            0.0173842013,
-            0.03275204,
-            0.04059946,
-            0.04877384,
-            0.05155313,
-            0.05743869,
-            0.0533515,
-            0.05858311,
-            0.0692098141,
-            0.08441417,
-            0.08784741,
-            0.08621253,
-            0.08506812,
-            0.0883378759,
-            0.08441417,
-            0.0809809342,
-            0.07705722,
-            0.07558583,
-            0.07231608,
-            0.06953678,
-            0.07002724,
-            0.0639781952,
-            0.0605449639,
-            0.05760218,
-            0.05547684,
-            0.04942779
+            2.179837,
+            8.228884,
+            17.71117,
+            20.3269711,
+            19.34605,
+            15.91281,
+            13.4604893,
+            10.8446894,
+            9.373297,
+            14.11444,
+            17.384201,
+            32.75204,
+            40.59946,
+            48.773838,
+            51.55313,
+            57.43869,
+            53.3514977,
+            58.58311,
+            69.20981,
+            84.41417,
+            87.84741,
+            86.21253,
+            85.06812,
+            88.3378754,
+            84.41417,
+            80.9809341,
+            77.05722,
+            75.58583,
+            72.31608,
+            69.53678,
+            70.0272446,
+            63.9782,
+            60.5449638,
+            57.60218,
+            55.47684,
+            49.42779
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -14797,19 +14797,19 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.02,
-            0.03634204,
-            0.03444181,
-            0.03596199,
-            0.0352019,
-            0.0315914527,
-            0.0312114,
-            0.02532067,
-            0.01372922,
-            0.002990654
+            20.0,
+            36.34204,
+            34.44181,
+            35.96199,
+            35.2019,
+            31.5914516,
+            31.2114,
+            25.32067,
+            13.72922,
+            2.990654
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -14936,21 +14936,21 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.0154394293,
-            0.04660332,
-            0.06731592,
-            0.08118764,
-            0.0863182843,
-            0.08384798,
-            0.0716864541,
-            0.06902613,
-            0.05135392,
-            0.0310213789,
-            0.01233645,
-            0.00411215
+            15.4394293,
+            46.6033173,
+            67.3159256,
+            81.187645,
+            86.31829,
+            83.84798,
+            71.6864548,
+            69.02613,
+            51.35392,
+            31.02138,
+            12.33645,
+            4.11215
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -15218,26 +15218,26 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.006273764,
-            0.01178707,
-            0.01440114,
-            0.01725285,
-            0.01202471,
-            0.01145437,
-            0.01487643,
-            0.0121673,
-            0.01078897,
-            0.01040874,
-            0.00964828953,
-            0.00865019,
-            0.00717680575,
-            0.00541825127,
-            0.003659696,
-            0.00223384,
-            0.0009505703
+            6.273764,
+            11.78707,
+            14.40114,
+            17.25285,
+            12.02471,
+            11.45437,
+            14.87643,
+            12.1673,
+            10.78897,
+            10.40874,
+            9.64829,
+            8.65019,
+            7.176806,
+            5.418251,
+            3.659696,
+            2.23384,
+            0.9505703
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -15773,24 +15773,24 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.0007462,
-            0.0014321,
-            0.0068575996,
-            0.0113856,
-            0.0138949994,
-            0.0141488006,
-            0.0135226,
-            0.0116991,
-            0.0103064,
-            0.0051328,
-            0.0035734,
-            0.0026029,
-            0.0011841,
-            0.0006398,
-            0.000352
+            0.746199965,
+            1.43209994,
+            6.85759974,
+            11.3856,
+            13.8949995,
+            14.1488,
+            13.5226,
+            11.6991005,
+            10.3064,
+            5.1328,
+            3.5734,
+            2.60289979,
+            1.1841,
+            0.6398,
+            0.352
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -15922,21 +15922,21 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00064,
-            0.00356,
-            0.01012,
-            0.01667,
-            0.01695,
-            0.01595,
-            0.01388,
-            0.01329,
-            0.01158,
-            0.00672,
-            0.00446,
-            0.00156
+            0.64,
+            3.56000018,
+            10.12,
+            16.67,
+            16.95,
+            15.9500008,
+            13.88,
+            13.29,
+            11.58,
+            6.72000027,
+            4.46,
+            1.56000006
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -16065,21 +16065,21 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00042,
-            0.00128,
-            0.00569,
-            0.00828,
-            0.00868,
-            0.00856,
-            0.00806,
-            0.00973,
-            0.00903,
-            0.00532,
-            0.00322,
-            0.00109
+            0.420000017,
+            1.28,
+            5.69,
+            8.28,
+            8.68,
+            8.559999,
+            8.059999,
+            9.73,
+            9.03,
+            5.32,
+            3.22,
+            1.09
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -16351,21 +16351,21 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00134111254,
-            0.0140300989,
-            0.01444275,
-            0.0146834617,
-            0.0140988743,
-            0.0130672492,
-            0.0125858253,
-            0.0124826608,
-            0.0120012378,
-            0.00770279951,
-            0.004848637,
-            0.00251028733
+            1.34111261,
+            14.0300989,
+            14.44275,
+            14.6834612,
+            14.0988741,
+            13.0672493,
+            12.5858259,
+            12.4826612,
+            12.0012379,
+            7.70279932,
+            4.848637,
+            2.51028728
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -16943,18 +16943,18 @@
             "MolWeight": 318.335
           },
           "Values": [
-            0.00849999953,
-            0.0129700005,
-            0.01296,
-            0.01296,
-            0.0189,
-            0.01591,
-            0.0189300012,
-            0.00704,
-            0.00248999987
+            8.5,
+            12.97,
+            12.96,
+            12.96,
+            18.9,
+            15.9100008,
+            18.93,
+            7.04,
+            2.49
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "ng/ml"
         }
       ],
       "BaseGrid": {
@@ -17011,7 +17011,7 @@
         "Fleishaker 1994, 50/100 mg QD",
         "Labellarte 2004, 150 mg bid",
         "SENSITIVITY, 300mg QD",
-        "Spigset 1008, 12.5/25/50/100 mg bid"
+        "Spigset 1998, 12.5/25/50/100 mg bid"
       ]
     },
     {
