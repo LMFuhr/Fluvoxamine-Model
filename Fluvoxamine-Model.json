@@ -8712,7 +8712,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "de Vries 1992, m, mean individuum, 100m, S3816",
+      "Individual": "de Vries 1992, mean individuum, male",
       "Compounds": [
         {
           "Name": "Fluvoxamine",
@@ -8901,7 +8901,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Fleishaker 1994, m mean individuum, 100m, 50smoker",
+      "Individual": "Fleishaker 1994, mean individuum, male",
       "Compounds": [
         {
           "Name": "Fluvoxamine",
@@ -9176,7 +9176,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Labellarte 2004, mean individuum, m",
+      "Individual": "Labellarte 2004, mean individuum, male",
       "Compounds": [
         {
           "Name": "Fluvoxamine",
@@ -9351,7 +9351,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Labellarte 2004, mean individuum, m",
+      "Individual": "Labellarte 2004, mean individuum, male",
       "Compounds": [
         {
           "Name": "Fluvoxamine",
