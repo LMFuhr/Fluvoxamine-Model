@@ -7,14 +7,14 @@ tic
 
 % --------------------------------------------------------------
 % replace qualificationRunnerFolder and markdownJoinerFolder with your paths
-qualificationRunnerFolder = 'C:\Users\Laura Fuhr\Documents\Matlab\QualificationRunner 8.0.51';
-markdownJoinerFolder = 'C:\Users\Laura Fuhr\Documents\Matlab\markdown-joiner';
+qualificationRunnerFolder = Path_QR;
+markdownJoinerFolder = Path_MJ;
 
 % --------------------------------------------------------------
-% replace basisDir and qualificationPlanName with your paths
+% replace baseDir and qualificationPlanName with your paths
 %
 % assuming the following structure
-%   basisDir
+%   baseDir
 %   - input
 %      - qualificationPlanName
 %   - re_input
@@ -22,7 +22,7 @@ markdownJoinerFolder = 'C:\Users\Laura Fuhr\Documents\Matlab\markdown-joiner';
 %   - report
 %
 
-basisDir = 'C:\Users\Laura Fuhr\Documents\Fluvoxamine-Model\Fluvoxamine-Model\Evaluation';
+baseDir = fullfile(cd);
 qualificationPlanName = 'evaluation_plan.json';
 
 % In case your folder structure is different from assumed above, 
@@ -35,10 +35,10 @@ qualificationPlanName = 'evaluation_plan.json';
 %                  CAUTION: if the folder is not empty, its contents will be deleted
 %
 % - ReportOutput_path: final report will be generated here
-qualificationPlan = fullfile(basisDir,'Input',qualificationPlanName);
-REInput_path = fullfile(basisDir,'re_input');
-REOutput_path = fullfile(basisDir,'re_output');
-ReportOutput_path=fullfile(basisDir, 'report');
+qualificationPlan = fullfile(baseDir,'Input',qualificationPlanName);
+REInput_path = fullfile(baseDir,'re_input');
+REOutput_path = fullfile(baseDir,'re_output');
+ReportOutput_path=fullfile(baseDir,'report');
 
 % --------------------------------------------------------------
 % STEP #1: start qualification runner to generate inputs for the reporting engine
@@ -70,6 +70,4 @@ status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportO
 %status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportOutput_path '" -f']);
 
 if status~=0 error('MarkdownJoiner failed'); end
-
-mergeQualificationMarkdown([ReportOutput_path filesep 'markdown_for_pdf'], [ReportOutput_path filesep 'report_merged.md']);
 
