@@ -172,7 +172,7 @@
             },
             {
                 "Project":  "Fluvoxamine-Model",
-                "Simulation":  "Spigset 1008, 12.5/25/50/100 mg bid",
+                "Simulation":  "Spigset 1998, 12.5/25/50/100 mg bid",
                 "SectionId":  331
             },
             {
@@ -317,28 +317,28 @@
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
-                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Simulation": "Spigset 1998, 12.5/25/50/100 mg bid",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.100 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
-                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Simulation": "Spigset 1998, 12.5/25/50/100 mg bid",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.12.5 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
-                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Simulation": "Spigset 1998, 12.5/25/50/100 mg bid",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.25 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Fluvoxamine-Model",
-                                "Simulation": "Spigset 1008, 12.5/25/50/100 mg bid",
+                                "Simulation": "Spigset 1998, 12.5/25/50/100 mg bid",
                                 "Output": "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Spigset 1998.50 mg BID.EM/PM.non-smoker", 
                                 "Color": "#0000FF"
