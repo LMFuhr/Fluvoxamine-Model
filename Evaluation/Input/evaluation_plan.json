@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Fluvoxamine-Model",
-            "Path": "C:/Users/Laura Fuhr/Documents/Fluvoxamine-Model/Fluvoxamine-Model/Fluvoxamine-Model.json",
+            "Path": "https://raw.githubusercontent.com/LMFuhr/Fluvoxamine-Model/master/Fluvoxamine-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
