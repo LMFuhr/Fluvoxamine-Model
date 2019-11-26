@@ -28,10 +28,12 @@ Smoking is the strongest known inducer of CYP1A2 and results in higher metabolis
 
 This is the result of the final parameter identification.
 
-| Model Parameter      | Optimized Value | Unit |
-| -------------------- | --------------- | ---- |
-| `PK-Sim parameter 1` |                 |      |
-| `PK-Sim parameter 2` |                 |      |
-| `PK-Sim parameter 3` |                 |      |
-| `PK-Sim parameter 4` |                 |      |
+| Model Parameter                    | Optimized Value | Unit      |
+| ---------------------------------- | --------------- | --------- |
+| `logP`                             | 3.57            | log units |
+| `CYP1A2 Km`                        | 7.35            | nmol/L    |
+| `CYP1A2 kcat` (non-smokers)        | 0.016           | 1/min     |
+| `CYP1A2 kcat` (smokers)            | 0.022           | 1/min     |
+| `CYP2D6 kcat` (EM)                 | 110.56          | 1/min     |
+| `Specific intestinal permeability` | 2.74 E-6        | dm/min    |
 
