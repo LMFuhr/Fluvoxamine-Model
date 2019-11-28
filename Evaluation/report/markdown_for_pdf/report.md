@@ -1,4 +1,4 @@
-# Building and Evaluation of a PBPK Model for fluvoxamine in Adults
+# Building and Evaluation of a PBPK Model for Fluvoxamine in Adults
 
 
 
