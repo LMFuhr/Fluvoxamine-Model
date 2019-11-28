@@ -64,7 +64,7 @@ fprintf('\n Qualification Workflow Duration: %0.1f minutes \n', QualificationWor
 MarkdownJoiner_path=fullfile(markdownJoinerFolder,'markdown-joiner.exe');
 
 % alternative #1: ReportOutput_path must be empty. If not, report generation will fail
-status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportOutput_path '"']);
+status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportOutput_path '" -f']);
 
 % alternative #2: (CAUTION) ReportOutput_path will be cleared first
 %status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportOutput_path '" -f']);

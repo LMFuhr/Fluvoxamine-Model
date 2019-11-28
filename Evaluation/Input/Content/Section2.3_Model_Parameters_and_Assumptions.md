@@ -20,7 +20,7 @@ The final model applies metabolism by CYP1A2, CYP2D6 and glomerular filtration. 
 
 To distinguish between fluvoxamine metabolism in CYP2D6 extensive metabolizers and poor metabolizers, the CYP2D6 catalytic rate constant kcat of PMs was set to zero. This assumption was made because CYP2D6 PMs were characterized by absent CYP2D6 enzymatic activity [Crews 2014](#5 References), which results in a predicted 1.5-fold increase of the fluvoxamine AUC in CYP2D6 PMs compared with CYP2D6 EMs.
 
-Smoking is the strongest known inducer of CYP1A2 and results in higher metabolism of CYP1A2 substrates [Zhou 2009](#5 References). As no detailed information on the frequency, duration, and amount of smoking was available from literature, the induction of CYP1A2 was implemented as a static 1.38-fold increase in enzyme activity. This factor was optimized based on the study of Spigset et al. ,25 resulting in a 39% reduction of the fluvoxamine AUC in smokers.
+Smoking is the strongest known inducer of CYP1A2 and results in higher metabolism of CYP1A2 substrates [Zhou 2009](#5 References). As no detailed information on the frequency, duration, and amount of smoking was available from literature, the induction of CYP1A2 was implemented as a static 1.38-fold increase in enzyme activity. This factor was optimized based on the study of Spigset et al. ([Spigset 1995](#5 References)) resulting in a 39% reduction of the fluvoxamine AUC in smokers.
 
 
 
